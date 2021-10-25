@@ -5,7 +5,8 @@
 
 h1, h4, #footer {
     text-align: center;
-    background-color: lightgray;
+    background-color: rgb(112, 112, 172);
+    color: whitesmoke;
     margin: 0%;
 }
 
@@ -26,6 +27,11 @@ h1, h4, #footer {
 
 #horizontal{
     border: 5px solid black;
+}
+
+#article h2{
+    color: rgb(112, 112, 172);
+    font-weight: 800;
 }
 
 #article{
@@ -51,7 +57,6 @@ h1, h4, #footer {
 #article #text {
     float: left;
     text-align: left;
-
 }
 
 

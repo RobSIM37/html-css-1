@@ -1,0 +1,58 @@
+* {
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+h1, h4, #footer {
+    text-align: center;
+    background-color: lightgray;
+    margin: 0%;
+}
+
+#navigation {
+    text-align: center;
+    margin: 1%;
+}
+
+#navigation > span {
+    color: lightgray;
+    background-color: black;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 1px solid black;
+}
+
+#horizontal{
+    border: 5px solid black;
+}
+
+#article{
+    border: 1px solid black;
+    margin: 1%;
+    padding: 2%;
+}
+
+#article img {
+    width: auto;
+    height: 250px;
+    margin: 1%;
+}
+
+#main {
+    height: 110px;
+}
+
+#article #text{
+    width: 50%;
+}
+
+#article #text {
+    float: left;
+    text-align: left;
+
+}
+
+
+
